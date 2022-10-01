@@ -1,6 +1,6 @@
 Hello,
 
-This is my JavaScript project.
+This is my JavaScript project. I created to world's most annoying cookie consent pop-up.
 I have learned; 
     - I used 'setTimeout' method to control the pop-up. 
     - I also used 'element.style' to dynamicly update an element CSS properties. 
